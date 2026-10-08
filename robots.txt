@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cgshnc.github.io/Creative-gacha/sitemap.xml
